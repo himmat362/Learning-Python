@@ -1,0 +1,11 @@
+course='Python for User'
+print(len(course))
+print(course.upper())
+print(course.lower())
+print(course)
+print(course.find('U'))
+print(course.find('y'))
+print(course.replace('User', 'Everyone'))
+print(course)
+print('Python' in course)
+print('python' in course)
